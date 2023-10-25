@@ -1,0 +1,7 @@
+cd OneDrive
+
+cd Desktop
+
+cd Project
+
+python ui.py
